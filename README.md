@@ -1,0 +1,2 @@
+# CloudFunctions-Typescript
+TypeScript×CloudFunctionsで簡単に関数を作る
